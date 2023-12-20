@@ -1,4 +1,4 @@
-Deploment link :- [https://crave-crafter.vercel.app/]
+Deploment link :- [https://crave-crafter-3xmp.vercel.app/]
 
 Project Name: One More Bite
 
